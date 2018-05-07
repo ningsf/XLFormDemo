@@ -1,0 +1,20 @@
+PODS:
+  - SVProgressHUD (2.2.5)
+  - XLForm (3.1.1)
+
+DEPENDENCIES:
+  - SVProgressHUD (~> 2.2.5)
+  - XLForm (~> 3.1.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SVProgressHUD
+    - XLForm
+
+SPEC CHECKSUMS:
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  XLForm: c9ee7e0f859341279bfd894f9589a9d25c23e4df
+
+PODFILE CHECKSUM: e5654f550f674feab8c405de86792fb7aed4205e
+
+COCOAPODS: 1.5.0
